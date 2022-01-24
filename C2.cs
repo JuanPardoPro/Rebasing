@@ -12,9 +12,9 @@ public class C2
     {
         return a - b;
     }
-
+    // Se agrega otro comentario
     public int Multiplicar(int a, int b)
     {
-        return a * b;
+        return a * (b + 2);
     }
 }
