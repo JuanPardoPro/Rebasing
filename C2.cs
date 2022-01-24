@@ -7,7 +7,7 @@ public class C2
     {
         return a + b;
     }
-
+    //Se agrega este comentario despues del stash
     public int Restar(int a, int b)
     {
         return a - b;
