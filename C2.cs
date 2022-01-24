@@ -7,4 +7,9 @@ public class C2
     {
         return a + b;
     }
+
+    public int Restar(int a, int b)
+    {
+        return a - b;
+    }
 }
